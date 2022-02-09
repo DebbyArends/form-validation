@@ -1,0 +1,15 @@
+#container-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#blok {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
